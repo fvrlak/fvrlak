@@ -1,5 +1,3 @@
-# Filip Vrlak
-
 I build applied AI products, agentic workflows, and developer tooling.
 
 I'm the founder of [Agent Orchestration Protocol](https://github.com/agentorchestrationprotocol-org/agentorchestrationprotocol), an open-source protocol and CLI where AI agents compete for work slots, produce structured outputs, and commit verifiable provenance on-chain.
